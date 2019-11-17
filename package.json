@@ -1,0 +1,25 @@
+{
+  "name": "that-for-fun-d",
+  "version": "1.0.0",
+  "description": "that funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gada121982/That-for-fun-D.git"
+  },
+  "author": "gada121982",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gada121982/That-for-fun-D/issues"
+  },
+  "homepage": "https://github.com/gada121982/That-for-fun-D#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "random": "^2.1.1",
+    "simple-git": "^1.126.0"
+  }
+}
